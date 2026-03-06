@@ -1,0 +1,520 @@
+2026-03-06 15:18:25,992  INFO  invoked
+2026-03-06 15:18:25,992  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:18:26,004  DEBUG  args - raw argument string received: []
+2026-03-06 15:18:26,004  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:18:26,004  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:18:26,004  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:18:26,009  DEBUG  args - cli_args&commands stored: Namespace(verbose=0, list_detectors=False, list_probes=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:18:26,009  DEBUG  non-config params: [('list_detectors', False), ('list_probes', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:18:26,015  INFO  nothing to do 🤷
+2026-03-06 15:18:29,684  INFO  invoked
+2026-03-06 15:18:29,684  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:18:29,695  DEBUG  args - raw argument string received: ['--version']
+2026-03-06 15:18:29,696  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=True, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:18:29,696  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:18:29,696  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:18:29,701  DEBUG  args - cli_args&commands stored: Namespace(version=True, verbose=0, list_detectors=False, list_probes=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None)
+2026-03-06 15:18:29,701  DEBUG  non-config params: [('version', True), ('list_detectors', False), ('list_probes', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None)]
+2026-03-06 15:18:33,757  INFO  invoked
+2026-03-06 15:18:33,757  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:18:33,767  DEBUG  args - raw argument string received: ['--list_probes']
+2026-03-06 15:18:33,768  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=True, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:18:33,768  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:18:33,768  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:18:33,773  DEBUG  args - cli_args&commands stored: Namespace(list_probes=True, verbose=0, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:18:33,773  DEBUG  non-config params: [('list_probes', True), ('list_detectors', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:19:35,907  INFO  invoked
+2026-03-06 15:19:35,907  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:19:35,918  DEBUG  args - raw argument string received: ['--version']
+2026-03-06 15:19:35,919  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=True, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:19:35,919  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:19:35,919  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:19:35,924  DEBUG  args - cli_args&commands stored: Namespace(version=True, verbose=0, list_detectors=False, list_probes=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None)
+2026-03-06 15:19:35,924  DEBUG  non-config params: [('version', True), ('list_detectors', False), ('list_probes', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None)]
+2026-03-06 15:19:57,207  INFO  invoked
+2026-03-06 15:19:57,207  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:19:57,216  DEBUG  args - raw argument string received: ['--list_probes']
+2026-03-06 15:19:57,217  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=True, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:19:57,217  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:19:57,217  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:19:57,222  DEBUG  args - cli_args&commands stored: Namespace(list_probes=True, verbose=0, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:19:57,222  DEBUG  non-config params: [('list_probes', True), ('list_detectors', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:20:40,151  INFO  invoked
+2026-03-06 15:20:40,151  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:20:40,161  DEBUG  args - raw argument string received: ['--help']
+2026-03-06 15:21:12,138  INFO  invoked
+2026-03-06 15:21:12,138  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:21:12,147  DEBUG  args - raw argument string received: ['--list_probes']
+2026-03-06 15:21:12,147  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=True, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:21:12,147  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:21:12,147  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:21:12,152  DEBUG  args - cli_args&commands stored: Namespace(list_probes=True, verbose=0, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:21:12,152  DEBUG  non-config params: [('list_probes', True), ('list_detectors', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:22:12,452  INFO  invoked
+2026-03-06 15:22:12,452  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:22:12,462  DEBUG  args - raw argument string received: ['--help']
+2026-03-06 15:22:43,596  INFO  invoked
+2026-03-06 15:22:43,596  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:22:43,607  DEBUG  args - raw argument string received: ['--list_generators']
+2026-03-06 15:22:43,607  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=True, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:22:43,607  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:22:43,607  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:22:43,612  DEBUG  args - cli_args&commands stored: Namespace(list_generators=True, verbose=0, list_detectors=False, list_probes=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:22:43,612  DEBUG  non-config params: [('list_generators', True), ('list_detectors', False), ('list_probes', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:22:55,476  INFO  invoked
+2026-03-06 15:22:55,476  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:22:55,487  DEBUG  args - raw argument string received: ['--model_type', 'huggingface', '--model_name', 'Qwen/Qwen2.5-1.5B-Instruct', '--probes', 'dan.Dan_11_0', '--report_prefix', 'results/garak_test']
+2026-03-06 15:22:55,487  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix='results/garak_test', narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type='huggingface', model_name='Qwen/Qwen2.5-1.5B-Instruct', generator_option_file=None, generator_options=None, probes='dan.Dan_11_0', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:22:55,487  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:22:55,487  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:22:55,492  DEBUG  args - cli_args&commands stored: Namespace(model_type='huggingface', model_name='Qwen/Qwen2.5-1.5B-Instruct', probes='dan.Dan_11_0', report_prefix='results/garak_test', verbose=0, list_detectors=False, list_probes=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:22:55,492  DEBUG  non-config params: [('probes', 'dan.Dan_11_0'), ('list_detectors', False), ('list_probes', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:23:01,322  INFO  generator init: <garak.generators.huggingface.Pipeline object at 0x7d510e33c1c0>
+2026-03-06 15:23:01,322  DEBUG  Using cuda, based on torch environment evaluation
+2026-03-06 15:23:01,402  DEBUG  connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=10 socket_options=None
+2026-03-06 15:23:01,447  DEBUG  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7d4d4180f6a0>
+2026-03-06 15:23:01,447  DEBUG  start_tls.started ssl_context=<ssl.SSLContext object at 0x7d4d419b9c40> server_hostname='huggingface.co' timeout=10
+2026-03-06 15:23:01,498  DEBUG  start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7d4d4180f670>
+2026-03-06 15:23:01,498  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,498  DEBUG  send_request_headers.complete
+2026-03-06 15:23:01,498  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,498  DEBUG  send_request_body.complete
+2026-03-06 15:23:01,498  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,585  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 307, b'Temporary Redirect', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'256'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:23:01 GMT'), (b'Location', b'/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/config.json?%2FQwen%2FQwen2.5-1.5B-Instruct%2Fresolve%2Fmain%2Fconfig.json=&etag=%22f81ead14ab072d65a07817f83a3ee0e5a1890d10%22'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab37a5-6761268c45a0c9731b5ae334;9e94c090-2eb6-4aa7-836d-f60fedad184e'), (b'RateLimit', b'"resolvers";r=2999;t=159'), (b'RateLimit-Policy', b'"fixed window";"resolvers";q=3000;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin, Accept'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'config.json; filename="config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'X-Linked-ETag', b'"f81ead14ab072d65a07817f83a3ee0e5a1890d10"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'ElwHdzHJh83UWWNCeL0AmCC6ACF1lXxvA5Z90fsw6KFr7Mh3t9Casg==')])
+2026-03-06 15:23:01,587  INFO  HTTP Request: HEAD https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-06 15:23:01,587  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,588  DEBUG  receive_response_body.complete
+2026-03-06 15:23:01,588  DEBUG  response_closed.started
+2026-03-06 15:23:01,588  DEBUG  response_closed.complete
+2026-03-06 15:23:01,589  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,589  DEBUG  send_request_headers.complete
+2026-03-06 15:23:01,589  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,589  DEBUG  send_request_body.complete
+2026-03-06 15:23:01,589  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,636  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'660'), (b'Connection', b'keep-alive'), (b'Date', b'Wed, 25 Jun 2025 12:44:07 GMT'), (b'ETag', b'"f81ead14ab072d65a07817f83a3ee0e5a1890d10"'), (b'X-Powered-By', b'huggingface-moon'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'X-Request-Id', b'Root=1-685bef17-3cf62076026c0d7e3cd53570;8f9f6b0b-41de-40b4-b93d-1108b3216552'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'config.json; filename="config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'Vary', b'Origin'), (b'X-Cache', b'Hit from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'qVWBL9eOVSLtVXiPQPIC-20JwkA5jvBLa1r7iKSmj6i2TudpRunHNw=='), (b'Age', b'21973134')])
+2026-03-06 15:23:01,637  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/config.json "HTTP/1.1 200 OK"
+2026-03-06 15:23:01,637  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,637  DEBUG  receive_response_body.complete
+2026-03-06 15:23:01,637  DEBUG  response_closed.started
+2026-03-06 15:23:01,637  DEBUG  response_closed.complete
+2026-03-06 15:23:01,919  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,919  DEBUG  send_request_headers.complete
+2026-03-06 15:23:01,919  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:01,919  DEBUG  send_request_body.complete
+2026-03-06 15:23:01,919  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:02,007  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 307, b'Temporary Redirect', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'278'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:23:01 GMT'), (b'Location', b'/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/generation_config.json?%2FQwen%2FQwen2.5-1.5B-Instruct%2Fresolve%2Fmain%2Fgeneration_config.json=&etag=%22dfc11073787daf1b0f9c0f1499487ab5f4c93738%22'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab37a5-176379fd7b82e31a13bc59de;ea05dd75-7bac-4331-946a-00490de11a02'), (b'RateLimit', b'"resolvers";r=2998;t=159'), (b'RateLimit-Policy', b'"fixed window";"resolvers";q=3000;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin, Accept'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-HF-Warning', b'unauthenticated; Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'generation_config.json; filename="generation_config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'X-Linked-ETag', b'"dfc11073787daf1b0f9c0f1499487ab5f4c93738"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'YJxwajVWVfXGPXik_AE-qqvHYnAYdK6FKnMUIM2KaCvRW_EYN8mkWw==')])
+2026-03-06 15:23:02,007  INFO  HTTP Request: HEAD https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-06 15:23:02,008  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:02,008  DEBUG  receive_response_body.complete
+2026-03-06 15:23:02,008  DEBUG  response_closed.started
+2026-03-06 15:23:02,008  DEBUG  response_closed.complete
+2026-03-06 15:23:02,008  WARNING  Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-03-06 15:23:02,008  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:02,009  DEBUG  send_request_headers.complete
+2026-03-06 15:23:02,009  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:02,009  DEBUG  send_request_body.complete
+2026-03-06 15:23:02,009  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:23:02,061  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'242'), (b'Connection', b'keep-alive'), (b'Date', b'Wed, 25 Jun 2025 12:44:10 GMT'), (b'ETag', b'"dfc11073787daf1b0f9c0f1499487ab5f4c93738"'), (b'X-Powered-By', b'huggingface-moon'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'X-Request-Id', b'Root=1-685bef1a-4b3ac4df5fc59b9962512837;89ae2866-75e4-474d-9f38-5bc2f825c24b'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'generation_config.json; filename="generation_config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'Vary', b'Origin'), (b'X-Cache', b'Hit from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'u65qTeofoTfx_eTdpAnWVJfWcyKiQhn2X-K1vftxJ33BeCvxoi9UoA=='), (b'Age', b'21973132')])
+2026-03-06 15:23:02,061  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/generation_config.json "HTTP/1.1 200 OK"
+2026-03-06 15:23:02,061  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:23:02,061  DEBUG  receive_response_body.complete
+2026-03-06 15:23:02,061  DEBUG  response_closed.started
+2026-03-06 15:23:02,062  DEBUG  response_closed.complete
+2026-03-06 15:23:02,067  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:23:02,067  DEBUG  send_request_headers.complete
+2026-03-06 15:23:02,067  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:23:02,067  DEBUG  send_request_body.complete
+2026-03-06 15:23:02,067  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:23:02,159  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'64'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:23:02 GMT'), (b'ETag', b'W/"40-09f9IAqP13xarAhQxFS2W8rvRkM"'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab37a6-18bd79c53aed71c063a20406;7027012b-2e6a-4e0f-b56c-2bfce8f85eae'), (b'RateLimit', b'"api";r=499;t=158'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Error-Code', b'EntryNotFound'), (b'X-Error-Message', b'additional_chat_templates does not exist on "main"'), (b'X-Cache', b'Error from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'HnGDUGyp_BSDt8mIb1oj7FDWA_e0y-H56FR76q5yQcBC5fnviLSEbQ==')])
+2026-03-06 15:23:02,160  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-03-06 15:23:02,160  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:23:02,160  DEBUG  receive_response_body.complete
+2026-03-06 15:23:02,160  DEBUG  response_closed.started
+2026-03-06 15:23:02,160  DEBUG  response_closed.complete
+2026-03-06 15:23:02,162  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:23:02,162  DEBUG  send_request_headers.complete
+2026-03-06 15:23:02,162  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:23:02,162  DEBUG  send_request_body.complete
+2026-03-06 15:23:02,162  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:23:02,255  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:23:02 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab37a6-7abfe9324f350ab514c5e7e5;96e3bfc9-f4bb-401f-adad-e15156f82ca1'), (b'RateLimit', b'"api";r=498;t=158'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"4be-+ZnjLgotnRiQaCv7RWdegVek/Jg"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'8QOrQwQg4IvWTJLwIA_JV6fxBQC0SgIKytau-vrlWwff8I2J3E9NYg==')])
+2026-03-06 15:23:02,256  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-03-06 15:23:02,256  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:23:02,256  DEBUG  receive_response_body.complete
+2026-03-06 15:23:02,256  DEBUG  response_closed.started
+2026-03-06 15:23:02,256  DEBUG  response_closed.complete
+2026-03-06 15:23:03,165  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:23:03,165  DEBUG  send_request_headers.complete
+2026-03-06 15:23:03,165  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:23:03,166  DEBUG  send_request_body.complete
+2026-03-06 15:23:03,166  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:23:03,258  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:23:03 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab37a7-211e916b0ff92cb31b1ce9c2;aec4d190-1992-47a9-a60d-b27a733803ed'), (b'RateLimit', b'"api";r=497;t=157'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"1d2c-v7hSZstO0iZDFSGI3WrhplfGkmE"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 5f530432caa659f8479164b3918f641e.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'MCI50-P1'), (b'X-Amz-Cf-Id', b'eImPSzHQ3zpyUB5MTRJxdTjBUuYTz0ainwqG2NoOk5SadV90mXzRvA==')])
+2026-03-06 15:23:03,259  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct "HTTP/1.1 200 OK"
+2026-03-06 15:23:03,259  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:23:03,259  DEBUG  receive_response_body.complete
+2026-03-06 15:23:03,259  DEBUG  response_closed.started
+2026-03-06 15:23:03,259  DEBUG  response_closed.complete
+2026-03-06 15:23:07,041  INFO  started at 2026-03-06T15:22:55.471574
+2026-03-06 15:23:07,041  INFO  reporting to results/garak_test.report.jsonl
+2026-03-06 15:23:07,042  INFO  harness init: <garak.harnesses.probewise.ProbewiseHarness object at 0x7d510e766530>
+2026-03-06 15:23:07,042  INFO  probe queue: probes.dan.Dan_11_0
+2026-03-06 15:23:07,044  INFO  probe init: <garak.probes.dan.Dan_11_0 object at 0x7d4d419d6a40>
+2026-03-06 15:23:07,044  DEBUG  deprecation warning - probe probes.dan.Dan_11_0 using recommend_detector instead of primary_detector
+2026-03-06 15:23:07,044  INFO  detector init: <garak.detectors.dan.DAN object at 0x7d4d41841d80>
+2026-03-06 15:23:07,044  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x7d4d41842830>
+2026-03-06 15:23:07,044  INFO  harness init: <garak.harnesses.base.Harness object at 0x7d4d419d6a70>
+2026-03-06 15:23:07,045  DEBUG  harness: probe start for garak.probes.dan.Dan_11_0
+2026-03-06 15:23:07,045  DEBUG  probe execute: <garak.probes.dan.Dan_11_0 object at 0x7d4d419d6a40>
+2026-03-06 15:23:52,785  DEBUG  probe return: <garak.probes.dan.Dan_11_0 object at 0x7d4d419d6a40> with 1 attempts
+2026-03-06 15:23:52,785  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 15:23:52,786  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:23:52,787  INFO  hit log in results/garak_test.hitlog.jsonl
+2026-03-06 15:23:52,788  DEBUG  harness: probe list iteration completed
+2026-03-06 15:23:52,788  INFO  run complete, ending
+2026-03-06 15:23:52,822  INFO  garak run complete in 57.32s
+2026-03-06 15:23:52,856  DEBUG  close.started
+2026-03-06 15:23:52,857  DEBUG  close.complete
+2026-03-06 15:38:33,544  INFO  invoked
+2026-03-06 15:38:33,544  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:38:33,555  DEBUG  args - raw argument string received: ['--model_type', 'huggingface', '--model_name', 'Qwen/Qwen2.5-1.5B-Instruct', '--probes', 'dan', '--report_prefix', 'results/dan_full']
+2026-03-06 15:38:33,555  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix='results/dan_full', narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type='huggingface', model_name='Qwen/Qwen2.5-1.5B-Instruct', generator_option_file=None, generator_options=None, probes='dan', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:38:33,556  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:38:33,556  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:38:33,560  DEBUG  args - cli_args&commands stored: Namespace(model_type='huggingface', model_name='Qwen/Qwen2.5-1.5B-Instruct', probes='dan', report_prefix='results/dan_full', verbose=0, list_detectors=False, list_probes=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:38:33,560  DEBUG  non-config params: [('probes', 'dan'), ('list_detectors', False), ('list_probes', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:38:39,395  INFO  generator init: <garak.generators.huggingface.Pipeline object at 0x75a92257c1f0>
+2026-03-06 15:38:39,395  DEBUG  Using cuda, based on torch environment evaluation
+2026-03-06 15:38:39,480  DEBUG  connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=10 socket_options=None
+2026-03-06 15:38:39,511  DEBUG  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x75a555a0f8e0>
+2026-03-06 15:38:39,512  DEBUG  start_tls.started ssl_context=<ssl.SSLContext object at 0x75a555bbdc40> server_hostname='huggingface.co' timeout=10
+2026-03-06 15:38:39,544  DEBUG  start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x75a555a0f8b0>
+2026-03-06 15:38:39,544  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,544  DEBUG  send_request_headers.complete
+2026-03-06 15:38:39,544  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,545  DEBUG  send_request_body.complete
+2026-03-06 15:38:39,545  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,588  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 307, b'Temporary Redirect', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'256'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:38:39 GMT'), (b'Location', b'/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/config.json?%2FQwen%2FQwen2.5-1.5B-Instruct%2Fresolve%2Fmain%2Fconfig.json=&etag=%22f81ead14ab072d65a07817f83a3ee0e5a1890d10%22'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3b4f-1385433e39fcb5c941b7bd95;bb4a9b3d-8c8d-4808-a416-74a3b7265b61'), (b'RateLimit', b'"resolvers";r=2994;t=121'), (b'RateLimit-Policy', b'"fixed window";"resolvers";q=3000;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin, Accept'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'config.json; filename="config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'X-Linked-ETag', b'"f81ead14ab072d65a07817f83a3ee0e5a1890d10"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'yfLTHi86GXPQE84KBCMpLQBl-EZ10uPYrua6mjXW4zvG3E-9OR6Z3A==')])
+2026-03-06 15:38:39,589  INFO  HTTP Request: HEAD https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-06 15:38:39,590  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,590  DEBUG  receive_response_body.complete
+2026-03-06 15:38:39,590  DEBUG  response_closed.started
+2026-03-06 15:38:39,590  DEBUG  response_closed.complete
+2026-03-06 15:38:39,590  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,591  DEBUG  send_request_headers.complete
+2026-03-06 15:38:39,591  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,591  DEBUG  send_request_body.complete
+2026-03-06 15:38:39,591  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,622  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'660'), (b'Connection', b'keep-alive'), (b'Date', b'Wed, 25 Jun 2025 12:44:07 GMT'), (b'ETag', b'"f81ead14ab072d65a07817f83a3ee0e5a1890d10"'), (b'X-Powered-By', b'huggingface-moon'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'X-Request-Id', b'Root=1-685bef17-3cf62076026c0d7e3cd53570;8f9f6b0b-41de-40b4-b93d-1108b3216552'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'config.json; filename="config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'Vary', b'Origin'), (b'X-Cache', b'Hit from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'_FARdlnYO_YmSkBBLdiRjMCJ3rXkq4y8zt41CZKtyi7HEdCDw7ybUA=='), (b'Age', b'21974072')])
+2026-03-06 15:38:39,623  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/config.json "HTTP/1.1 200 OK"
+2026-03-06 15:38:39,623  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,624  DEBUG  receive_response_body.complete
+2026-03-06 15:38:39,624  DEBUG  response_closed.started
+2026-03-06 15:38:39,624  DEBUG  response_closed.complete
+2026-03-06 15:38:39,890  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,890  DEBUG  send_request_headers.complete
+2026-03-06 15:38:39,890  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,890  DEBUG  send_request_body.complete
+2026-03-06 15:38:39,890  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,933  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 307, b'Temporary Redirect', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'278'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:38:39 GMT'), (b'Location', b'/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/generation_config.json?%2FQwen%2FQwen2.5-1.5B-Instruct%2Fresolve%2Fmain%2Fgeneration_config.json=&etag=%22dfc11073787daf1b0f9c0f1499487ab5f4c93738%22'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3b4f-21e61e47360b97b87c8f86e6;9bef815a-06c0-44f3-a5f1-96592cb8bd5f'), (b'RateLimit', b'"resolvers";r=2993;t=121'), (b'RateLimit-Policy', b'"fixed window";"resolvers";q=3000;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin, Accept'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'generation_config.json; filename="generation_config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'X-Linked-ETag', b'"dfc11073787daf1b0f9c0f1499487ab5f4c93738"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'XBVO_YV3e9lTMswpqBS3z-bFvZIHa26X9FZeThREJpfdhTNnKEZBkw==')])
+2026-03-06 15:38:39,934  INFO  HTTP Request: HEAD https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-06 15:38:39,934  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,934  DEBUG  receive_response_body.complete
+2026-03-06 15:38:39,934  DEBUG  response_closed.started
+2026-03-06 15:38:39,934  DEBUG  response_closed.complete
+2026-03-06 15:38:39,935  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,935  DEBUG  send_request_headers.complete
+2026-03-06 15:38:39,935  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,935  DEBUG  send_request_body.complete
+2026-03-06 15:38:39,935  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,967  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'242'), (b'Connection', b'keep-alive'), (b'Date', b'Wed, 25 Jun 2025 12:44:10 GMT'), (b'ETag', b'"dfc11073787daf1b0f9c0f1499487ab5f4c93738"'), (b'X-Powered-By', b'huggingface-moon'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'X-Request-Id', b'Root=1-685bef1a-4b3ac4df5fc59b9962512837;89ae2866-75e4-474d-9f38-5bc2f825c24b'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'generation_config.json; filename="generation_config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'Vary', b'Origin'), (b'X-Cache', b'Hit from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'uPOdR_zmYU2ffbJc20kUVnZlbmvFQYw_fDvaIOImnj1Z_oMfj4ahVA=='), (b'Age', b'21974069')])
+2026-03-06 15:38:39,968  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/generation_config.json "HTTP/1.1 200 OK"
+2026-03-06 15:38:39,968  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:38:39,968  DEBUG  receive_response_body.complete
+2026-03-06 15:38:39,968  DEBUG  response_closed.started
+2026-03-06 15:38:39,968  DEBUG  response_closed.complete
+2026-03-06 15:38:39,976  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:38:39,977  DEBUG  send_request_headers.complete
+2026-03-06 15:38:39,977  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:38:39,977  DEBUG  send_request_body.complete
+2026-03-06 15:38:39,977  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:38:40,020  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'64'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:38:39 GMT'), (b'ETag', b'W/"40-09f9IAqP13xarAhQxFS2W8rvRkM"'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3b4f-117183a57b361d8c4b77773d;77b5b81a-3428-474f-884c-025c90566bab'), (b'RateLimit', b'"api";r=496;t=121'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Error-Code', b'EntryNotFound'), (b'X-Error-Message', b'additional_chat_templates does not exist on "main"'), (b'X-Cache', b'Error from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'IsayN-3CSLKP1nYXNB8-7zsOYM2zrBu-MdDOpfWVmCyrVowohMBIQA==')])
+2026-03-06 15:38:40,021  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-03-06 15:38:40,021  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:38:40,021  DEBUG  receive_response_body.complete
+2026-03-06 15:38:40,021  DEBUG  response_closed.started
+2026-03-06 15:38:40,021  DEBUG  response_closed.complete
+2026-03-06 15:38:40,023  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:38:40,023  DEBUG  send_request_headers.complete
+2026-03-06 15:38:40,023  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:38:40,023  DEBUG  send_request_body.complete
+2026-03-06 15:38:40,023  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:38:40,071  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:38:40 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3b50-2c135daf7e4033ad54503681;945a4380-1608-4d45-8f72-4575d0a655bb'), (b'RateLimit', b'"api";r=495;t=120'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"4be-+ZnjLgotnRiQaCv7RWdegVek/Jg"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'gA2VmOnIKFthYE-bIkmGiQAOe1b61PbiyipWxMpaGskVIMYByzNjsg==')])
+2026-03-06 15:38:40,071  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-03-06 15:38:40,071  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:38:40,072  DEBUG  receive_response_body.complete
+2026-03-06 15:38:40,072  DEBUG  response_closed.started
+2026-03-06 15:38:40,072  DEBUG  response_closed.complete
+2026-03-06 15:38:40,940  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:38:40,940  DEBUG  send_request_headers.complete
+2026-03-06 15:38:40,940  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:38:40,940  DEBUG  send_request_body.complete
+2026-03-06 15:38:40,940  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:38:40,987  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:38:40 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3b50-7b79b7d42680f83e436fa2f1;9c5d1407-d339-4d4d-8802-0f92bc32fc88'), (b'RateLimit', b'"api";r=494;t=120'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"1d2c-v7hSZstO0iZDFSGI3WrhplfGkmE"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 12e513e98793fc6e02a9475675553ed4.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'DHjwlYGZWvBWPNAM-YIjV9iH7wVj41qzZWGhziV1L4F8FLR1mgCfRg==')])
+2026-03-06 15:38:40,987  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct "HTTP/1.1 200 OK"
+2026-03-06 15:38:40,988  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:38:40,988  DEBUG  receive_response_body.complete
+2026-03-06 15:38:40,988  DEBUG  response_closed.started
+2026-03-06 15:38:40,988  DEBUG  response_closed.complete
+2026-03-06 15:38:44,761  INFO  started at 2026-03-06T15:38:33.539329
+2026-03-06 15:38:44,761  INFO  reporting to results/dan_full.report.jsonl
+2026-03-06 15:38:44,763  INFO  harness init: <garak.harnesses.probewise.ProbewiseHarness object at 0x75a9229624a0>
+2026-03-06 15:38:44,763  INFO  probe queue: probes.dan.AntiDAN probes.dan.AutoDANCached probes.dan.ChatGPT_Developer_Mode_RANTI probes.dan.ChatGPT_Developer_Mode_v2 probes.dan.ChatGPT_Image_Markdown probes.dan.DAN_Jailbreak probes.dan.DUDE probes.dan.DanInTheWildMini probes.dan.Dan_10_0 probes.dan.Dan_11_0 probes.dan.Dan_6_0 probes.dan.Dan_6_2 probes.dan.Dan_7_0 probes.dan.Dan_8_0 probes.dan.Dan_9_0 probes.dan.STAN
+2026-03-06 15:38:44,764  INFO  probe init: <garak.probes.dan.AntiDAN object at 0x75a555bdac50>
+2026-03-06 15:38:44,764  DEBUG  deprecation warning - probe probes.dan.AntiDAN using recommend_detector instead of primary_detector
+2026-03-06 15:38:44,765  INFO  detector init: <garak.detectors.dan.AntiDAN object at 0x75a555bdb910>
+2026-03-06 15:38:44,765  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a52950>
+2026-03-06 15:38:44,765  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a555bda980>
+2026-03-06 15:38:44,765  DEBUG  harness: probe start for garak.probes.dan.AntiDAN
+2026-03-06 15:38:44,765  DEBUG  probe execute: <garak.probes.dan.AntiDAN object at 0x75a555bdac50>
+2026-03-06 15:39:22,967  DEBUG  probe return: <garak.probes.dan.AntiDAN object at 0x75a555bdac50> with 1 attempts
+2026-03-06 15:39:22,967  DEBUG  harness: run detector garak.detectors.dan.AntiDAN
+2026-03-06 15:39:22,968  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:39:22,970  INFO  hit log in results/dan_full.hitlog.jsonl
+2026-03-06 15:39:22,970  DEBUG  harness: probe list iteration completed
+2026-03-06 15:39:22,970  INFO  probe init: <garak.probes.dan.AutoDANCached object at 0x75a922555c30>
+2026-03-06 15:39:22,970  DEBUG  deprecation warning - probe probes.dan.AutoDANCached using recommend_detector instead of primary_detector
+2026-03-06 15:39:22,971  INFO  detector init: <garak.detectors.dan.DAN object at 0x75a9225542e0>
+2026-03-06 15:39:22,971  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a52e00>
+2026-03-06 15:39:22,971  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a922555cf0>
+2026-03-06 15:39:22,971  DEBUG  harness: probe start for garak.probes.dan.AutoDANCached
+2026-03-06 15:39:22,971  DEBUG  probe execute: <garak.probes.dan.AutoDANCached object at 0x75a922555c30>
+2026-03-06 15:40:58,896  DEBUG  probe return: <garak.probes.dan.AutoDANCached object at 0x75a922555c30> with 3 attempts
+2026-03-06 15:40:58,896  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 15:40:58,897  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:40:58,901  DEBUG  harness: probe list iteration completed
+2026-03-06 15:40:58,901  INFO  probe init: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x75a555a50340>
+2026-03-06 15:40:58,902  DEBUG  deprecation warning - probe probes.dan.ChatGPT_Developer_Mode_RANTI using recommend_detector instead of primary_detector
+2026-03-06 15:40:58,902  INFO  detector init: <garak.detectors.dan.DevMode object at 0x75a922555c30>
+2026-03-06 15:40:58,902  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a526e0>
+2026-03-06 15:40:58,902  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a9225542e0>
+2026-03-06 15:40:58,902  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Developer_Mode_RANTI
+2026-03-06 15:40:58,902  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x75a555a50340>
+2026-03-06 15:41:42,475  DEBUG  probe return: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x75a555a50340> with 1 attempts
+2026-03-06 15:41:42,475  DEBUG  harness: run detector garak.detectors.dan.DevMode
+2026-03-06 15:41:42,476  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:41:42,477  DEBUG  harness: probe list iteration completed
+2026-03-06 15:41:42,477  INFO  probe init: <garak.probes.dan.ChatGPT_Developer_Mode_v2 object at 0x75a922555cf0>
+2026-03-06 15:41:42,477  DEBUG  deprecation warning - probe probes.dan.ChatGPT_Developer_Mode_v2 using recommend_detector instead of primary_detector
+2026-03-06 15:41:42,478  INFO  detector init: <garak.detectors.dan.DevMode object at 0x75a555a52e60>
+2026-03-06 15:41:42,478  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a50340>
+2026-03-06 15:41:42,478  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a922555c30>
+2026-03-06 15:41:42,478  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Developer_Mode_v2
+2026-03-06 15:41:42,478  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Developer_Mode_v2 object at 0x75a922555cf0>
+2026-03-06 15:42:23,858  DEBUG  probe return: <garak.probes.dan.ChatGPT_Developer_Mode_v2 object at 0x75a922555cf0> with 1 attempts
+2026-03-06 15:42:23,858  DEBUG  harness: run detector garak.detectors.dan.DevMode
+2026-03-06 15:42:23,859  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:42:23,861  DEBUG  harness: probe list iteration completed
+2026-03-06 15:42:23,861  INFO  probe init: <garak.probes.dan.ChatGPT_Image_Markdown object at 0x75a9225542e0>
+2026-03-06 15:42:23,861  DEBUG  deprecation warning - probe probes.dan.ChatGPT_Image_Markdown using recommend_detector instead of primary_detector
+2026-03-06 15:42:23,862  INFO  detector init: <garak.detectors.dan.MarkdownLink object at 0x75a555a52950>
+2026-03-06 15:42:23,862  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a539d0>
+2026-03-06 15:42:23,862  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a922555cf0>
+2026-03-06 15:42:23,862  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Image_Markdown
+2026-03-06 15:42:23,862  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Image_Markdown object at 0x75a9225542e0>
+2026-03-06 15:42:58,056  DEBUG  probe return: <garak.probes.dan.ChatGPT_Image_Markdown object at 0x75a9225542e0> with 1 attempts
+2026-03-06 15:42:58,056  DEBUG  harness: run detector garak.detectors.dan.MarkdownLink
+2026-03-06 15:42:58,056  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:42:58,058  DEBUG  harness: probe list iteration completed
+2026-03-06 15:42:58,058  INFO  probe init: <garak.probes.dan.DAN_Jailbreak object at 0x75a922555c30>
+2026-03-06 15:42:58,058  DEBUG  deprecation warning - probe probes.dan.DAN_Jailbreak using recommend_detector instead of primary_detector
+2026-03-06 15:42:58,059  INFO  detector init: <garak.detectors.dan.DANJailbreak object at 0x75a555a52e00>
+2026-03-06 15:42:58,059  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a52e60>
+2026-03-06 15:42:58,059  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a9225542e0>
+2026-03-06 15:42:58,059  DEBUG  harness: probe start for garak.probes.dan.DAN_Jailbreak
+2026-03-06 15:42:58,059  DEBUG  probe execute: <garak.probes.dan.DAN_Jailbreak object at 0x75a922555c30>
+2026-03-06 15:43:39,484  DEBUG  probe return: <garak.probes.dan.DAN_Jailbreak object at 0x75a922555c30> with 1 attempts
+2026-03-06 15:43:39,484  DEBUG  harness: run detector garak.detectors.dan.DANJailbreak
+2026-03-06 15:43:39,484  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:43:39,487  DEBUG  harness: probe list iteration completed
+2026-03-06 15:43:39,487  INFO  probe init: <garak.probes.dan.DUDE object at 0x75a922555cf0>
+2026-03-06 15:43:39,487  DEBUG  deprecation warning - probe probes.dan.DUDE using recommend_detector instead of primary_detector
+2026-03-06 15:43:39,487  INFO  detector init: <garak.detectors.dan.DUDE object at 0x75a555a526e0>
+2026-03-06 15:43:39,488  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a555a52950>
+2026-03-06 15:43:39,488  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a922555c30>
+2026-03-06 15:43:39,488  DEBUG  harness: probe start for garak.probes.dan.DUDE
+2026-03-06 15:43:39,488  DEBUG  probe execute: <garak.probes.dan.DUDE object at 0x75a922555cf0>
+2026-03-06 15:44:14,449  DEBUG  probe return: <garak.probes.dan.DUDE object at 0x75a922555cf0> with 1 attempts
+2026-03-06 15:44:14,449  DEBUG  harness: run detector garak.detectors.dan.DUDE
+2026-03-06 15:44:14,449  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:44:14,451  DEBUG  harness: probe list iteration completed
+2026-03-06 15:44:14,451  INFO  probe init: <garak.probes.dan.DanInTheWildMini object at 0x75a9225542e0>
+2026-03-06 15:44:14,454  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x75a922555cf0>
+2026-03-06 15:44:14,454  INFO  harness init: <garak.harnesses.base.Harness object at 0x75a555a52950>
+2026-03-06 15:44:14,455  DEBUG  harness: probe start for garak.probes.dan.DanInTheWildMini
+2026-03-06 15:44:14,455  DEBUG  probe execute: <garak.probes.dan.DanInTheWildMini object at 0x75a9225542e0>
+2026-03-06 15:48:40,826  ERROR  
+Traceback (most recent call last):
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/cli.py", line 499, in main
+    command.probewise_run(
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/command.py", line 208, in probewise_run
+    probewise_h.run(generator, probe_names, evaluator, buffs)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/harnesses/probewise.py", line 107, in run
+    h.run(model, [probe], detectors, evaluator, announce_probe=False)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/harnesses/base.py", line 108, in run
+    attempt_results = probe.probe(model)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/probes/base.py", line 210, in probe
+    attempts_completed = self._execute_all(attempts_todo)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/probes/base.py", line 188, in _execute_all
+    result = self._execute_attempt(this_attempt)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/probes/base.py", line 149, in _execute_attempt
+    this_attempt.outputs = self.generator.generate(this_attempt.prompt)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/generators/base.py", line 112, in generate
+    outputs = self._call_model(prompt, generations_this_call)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/generators/huggingface.py", line 196, in _call_model
+    raw_output = self.generator(
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/pipelines/text_generation.py", line 299, in __call__
+    return super().__call__(text_inputs, **kwargs)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/pipelines/base.py", line 1267, in __call__
+    return self.run_single(inputs, preprocess_params, forward_params, postprocess_params)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/pipelines/base.py", line 1274, in run_single
+    model_outputs = self.forward(model_inputs, **forward_params)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/pipelines/base.py", line 1166, in forward
+    model_outputs = self._forward(model_inputs, **forward_params)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/pipelines/text_generation.py", line 403, in _forward
+    output = self.model.generate(input_ids=input_ids, attention_mask=attention_mask, **generate_kwargs)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/generation/utils.py", line 2535, in generate
+    result = decoding_method(
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/generation/utils.py", line 2735, in _sample
+    while self._has_unfinished_sequences(this_peer_finished, synced_gpus, device=input_ids.device):
+  File "/home/mara/venvs/garak-axis/lib/python3.10/site-packages/transformers/generation/utils.py", line 2561, in _has_unfinished_sequences
+    elif this_peer_finished:
+KeyboardInterrupt
+2026-03-06 15:48:40,828  INFO  User cancel received, terminating all runs
+2026-03-06 15:48:40,868  DEBUG  close.started
+2026-03-06 15:48:40,868  DEBUG  close.complete
+2026-03-06 15:48:46,311  INFO  invoked
+2026-03-06 15:48:46,311  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:48:46,321  DEBUG  args - raw argument string received: ['--model_type', 'huggingface', '--model_name', 'Qwen/Qwen2.5-1.5B-Instruct', '--probes', 'dan', '--report_prefix', 'results/dan_full']
+2026-03-06 15:48:46,321  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix='results/dan_full', narrow_output=False, parallel_requests=False, parallel_attempts=False, skip_unknown=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type='huggingface', model_name='Qwen/Qwen2.5-1.5B-Instruct', generator_option_file=None, generator_options=None, probes='dan', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=False, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2026-03-06 15:48:46,321  DEBUG  no site config found at: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/garak.site.yaml
+2026-03-06 15:48:46,321  DEBUG  Loading configs from: /home/mara/venvs/garak-axis/lib/python3.10/site-packages/garak/resources/garak.core.yaml
+2026-03-06 15:48:46,325  DEBUG  args - cli_args&commands stored: Namespace(model_type='huggingface', model_name='Qwen/Qwen2.5-1.5B-Instruct', probes='dan', report_prefix='results/dan_full', verbose=0, list_detectors=False, list_probes=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2026-03-06 15:48:46,325  DEBUG  non-config params: [('probes', 'dan'), ('list_detectors', False), ('list_probes', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('report', None), ('version', False)]
+2026-03-06 15:48:52,198  INFO  generator init: <garak.generators.huggingface.Pipeline object at 0x7311e587c220>
+2026-03-06 15:48:52,199  DEBUG  Using cuda, based on torch environment evaluation
+2026-03-06 15:48:52,280  DEBUG  connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=10 socket_options=None
+2026-03-06 15:48:52,313  DEBUG  connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x730e18ec7a00>
+2026-03-06 15:48:52,313  DEBUG  start_tls.started ssl_context=<ssl.SSLContext object at 0x730e18e9dc40> server_hostname='huggingface.co' timeout=10
+2026-03-06 15:48:52,346  DEBUG  start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x730e18ec79d0>
+2026-03-06 15:48:52,346  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,347  DEBUG  send_request_headers.complete
+2026-03-06 15:48:52,347  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,347  DEBUG  send_request_body.complete
+2026-03-06 15:48:52,347  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,391  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 307, b'Temporary Redirect', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'256'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:48:52 GMT'), (b'Location', b'/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/config.json?%2FQwen%2FQwen2.5-1.5B-Instruct%2Fresolve%2Fmain%2Fconfig.json=&etag=%22f81ead14ab072d65a07817f83a3ee0e5a1890d10%22'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3db4-2001044d6c315e2a7610c452;fd75b3d6-2df2-4641-861c-294b4edcb489'), (b'RateLimit', b'"resolvers";r=2999;t=108'), (b'RateLimit-Policy', b'"fixed window";"resolvers";q=3000;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin, Accept'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'config.json; filename="config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'X-Linked-ETag', b'"f81ead14ab072d65a07817f83a3ee0e5a1890d10"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'QojO-l9L7jDErlar5IQ39C1i0X9GZ513ZxkfzOCgN_988Psv2PS8bA==')])
+2026-03-06 15:48:52,392  INFO  HTTP Request: HEAD https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-06 15:48:52,392  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,393  DEBUG  receive_response_body.complete
+2026-03-06 15:48:52,393  DEBUG  response_closed.started
+2026-03-06 15:48:52,393  DEBUG  response_closed.complete
+2026-03-06 15:48:52,393  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,393  DEBUG  send_request_headers.complete
+2026-03-06 15:48:52,393  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,394  DEBUG  send_request_body.complete
+2026-03-06 15:48:52,394  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,425  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'660'), (b'Connection', b'keep-alive'), (b'Date', b'Wed, 25 Jun 2025 12:44:07 GMT'), (b'ETag', b'"f81ead14ab072d65a07817f83a3ee0e5a1890d10"'), (b'X-Powered-By', b'huggingface-moon'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'X-Request-Id', b'Root=1-685bef17-3cf62076026c0d7e3cd53570;8f9f6b0b-41de-40b4-b93d-1108b3216552'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'config.json; filename="config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'Vary', b'Origin'), (b'X-Cache', b'Hit from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'pu_MmQWwuc1wo2xoTtZONLpiQSluFOullWB0HoCRvSoBoXTAeE3C-Q=='), (b'Age', b'21974685')])
+2026-03-06 15:48:52,425  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/config.json "HTTP/1.1 200 OK"
+2026-03-06 15:48:52,425  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,426  DEBUG  receive_response_body.complete
+2026-03-06 15:48:52,426  DEBUG  response_closed.started
+2026-03-06 15:48:52,426  DEBUG  response_closed.complete
+2026-03-06 15:48:52,687  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,687  DEBUG  send_request_headers.complete
+2026-03-06 15:48:52,687  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,687  DEBUG  send_request_body.complete
+2026-03-06 15:48:52,687  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,741  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 307, b'Temporary Redirect', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'278'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:48:52 GMT'), (b'Location', b'/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/generation_config.json?%2FQwen%2FQwen2.5-1.5B-Instruct%2Fresolve%2Fmain%2Fgeneration_config.json=&etag=%22dfc11073787daf1b0f9c0f1499487ab5f4c93738%22'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3db4-7ca2dbda4b93b1737e26f742;f392a418-4cd3-41c6-a671-a0a837f9aebe'), (b'RateLimit', b'"resolvers";r=2998;t=108'), (b'RateLimit-Policy', b'"fixed window";"resolvers";q=3000;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin, Accept'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'generation_config.json; filename="generation_config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'X-Linked-ETag', b'"dfc11073787daf1b0f9c0f1499487ab5f4c93738"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'fDCkOVEJ0L04Z0NcaAuOLnGgLCsFZX7oLYSAHjHLQE8gsmJz9z0EZA==')])
+2026-03-06 15:48:52,742  INFO  HTTP Request: HEAD https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-06 15:48:52,742  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,742  DEBUG  receive_response_body.complete
+2026-03-06 15:48:52,742  DEBUG  response_closed.started
+2026-03-06 15:48:52,742  DEBUG  response_closed.complete
+2026-03-06 15:48:52,743  DEBUG  send_request_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,743  DEBUG  send_request_headers.complete
+2026-03-06 15:48:52,743  DEBUG  send_request_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,743  DEBUG  send_request_body.complete
+2026-03-06 15:48:52,743  DEBUG  receive_response_headers.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,776  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'text/plain; charset=utf-8'), (b'Content-Length', b'242'), (b'Connection', b'keep-alive'), (b'Date', b'Wed, 25 Jun 2025 12:44:10 GMT'), (b'ETag', b'"dfc11073787daf1b0f9c0f1499487ab5f4c93738"'), (b'X-Powered-By', b'huggingface-moon'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'X-Request-Id', b'Root=1-685bef1a-4b3ac4df5fc59b9962512837;89ae2866-75e4-474d-9f38-5bc2f825c24b'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Repo-Commit', b'989aa7980e4cf806f80c7fef2b1adb7bc71aa306'), (b'Accept-Ranges', b'bytes'), (b'X-Hub-Cache', b'HIT'), (b'Content-Disposition', b'inline; filename*=UTF-8\'\'generation_config.json; filename="generation_config.json";'), (b'Content-Security-Policy', b"default-src 'none'; sandbox"), (b'Vary', b'Origin'), (b'X-Cache', b'Hit from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'FgRk6pZKZAPOvqiYvFmRBXjUeJt3v4ldlqcm_s090M_cnocJ05emng=='), (b'Age', b'21974682')])
+2026-03-06 15:48:52,777  INFO  HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen2.5-1.5B-Instruct/989aa7980e4cf806f80c7fef2b1adb7bc71aa306/generation_config.json "HTTP/1.1 200 OK"
+2026-03-06 15:48:52,777  DEBUG  receive_response_body.started request=<Request [b'HEAD']>
+2026-03-06 15:48:52,777  DEBUG  receive_response_body.complete
+2026-03-06 15:48:52,777  DEBUG  response_closed.started
+2026-03-06 15:48:52,777  DEBUG  response_closed.complete
+2026-03-06 15:48:52,782  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:48:52,782  DEBUG  send_request_headers.complete
+2026-03-06 15:48:52,782  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:48:52,782  DEBUG  send_request_body.complete
+2026-03-06 15:48:52,782  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:48:52,827  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 404, b'Not Found', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'64'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:48:52 GMT'), (b'ETag', b'W/"40-09f9IAqP13xarAhQxFS2W8rvRkM"'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3db4-2e342b676289175169f0ee59;4bf2e1ba-97fe-4353-aaf8-8daa44e811f7'), (b'RateLimit', b'"api";r=499;t=108'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'X-Error-Code', b'EntryNotFound'), (b'X-Error-Message', b'additional_chat_templates does not exist on "main"'), (b'X-Cache', b'Error from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'vtNeMfSD-mMFgrUHGWwOzVAkap7BdI0Bt97AmjE8mURQ6KtnNeBZxQ==')])
+2026-03-06 15:48:52,828  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-03-06 15:48:52,828  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:48:52,828  DEBUG  receive_response_body.complete
+2026-03-06 15:48:52,828  DEBUG  response_closed.started
+2026-03-06 15:48:52,828  DEBUG  response_closed.complete
+2026-03-06 15:48:52,830  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:48:52,830  DEBUG  send_request_headers.complete
+2026-03-06 15:48:52,830  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:48:52,830  DEBUG  send_request_body.complete
+2026-03-06 15:48:52,830  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:48:52,878  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:48:52 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3db4-7a6a1601550f6c6673b9304f;1bd91fb0-db62-44c5-aaae-7cc4ddd8de7e'), (b'RateLimit', b'"api";r=498;t=108'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"4be-+ZnjLgotnRiQaCv7RWdegVek/Jg"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'QSarfXYdeLAzhHmOYUH148kJEecAxwQ055rR41FRlRi2V6fOPRAmoA==')])
+2026-03-06 15:48:52,878  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-03-06 15:48:52,878  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:48:52,879  DEBUG  receive_response_body.complete
+2026-03-06 15:48:52,879  DEBUG  response_closed.started
+2026-03-06 15:48:52,879  DEBUG  response_closed.complete
+2026-03-06 15:48:53,756  DEBUG  send_request_headers.started request=<Request [b'GET']>
+2026-03-06 15:48:53,756  DEBUG  send_request_headers.complete
+2026-03-06 15:48:53,756  DEBUG  send_request_body.started request=<Request [b'GET']>
+2026-03-06 15:48:53,756  DEBUG  send_request_body.complete
+2026-03-06 15:48:53,757  DEBUG  receive_response_headers.started request=<Request [b'GET']>
+2026-03-06 15:48:53,800  DEBUG  receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Date', b'Fri, 06 Mar 2026 20:48:53 GMT'), (b'Access-Control-Expose-Headers', b'X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash'), (b'content-encoding', b'gzip'), (b'X-Powered-By', b'huggingface-moon'), (b'X-Request-Id', b'Root=1-69ab3db5-7925c48f353ce36c5b4a2c29;04aefa1f-0675-4104-b861-0c652fca022e'), (b'RateLimit', b'"api";r=497;t=107'), (b'RateLimit-Policy', b'"fixed window";"api";q=500;w=300'), (b'cross-origin-opener-policy', b'same-origin'), (b'Referrer-Policy', b'strict-origin-when-cross-origin'), (b'Access-Control-Max-Age', b'86400'), (b'Access-Control-Allow-Origin', b'https://huggingface.co'), (b'Vary', b'Origin'), (b'vary', b'accept-encoding'), (b'ETag', b'W/"1d2c-v7hSZstO0iZDFSGI3WrhplfGkmE"'), (b'X-Cache', b'Miss from cloudfront'), (b'Via', b'1.1 422bc44e4c277c4908c02cee9cf0a588.cloudfront.net (CloudFront)'), (b'X-Amz-Cf-Pop', b'JFK50-P9'), (b'X-Amz-Cf-Id', b'VCMUq8amo3T-KkwfuQwki9Zv0i6i_S49FKTCuM4cGXCL-lTCG38FyQ==')])
+2026-03-06 15:48:53,800  INFO  HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen2.5-1.5B-Instruct "HTTP/1.1 200 OK"
+2026-03-06 15:48:53,801  DEBUG  receive_response_body.started request=<Request [b'GET']>
+2026-03-06 15:48:53,801  DEBUG  receive_response_body.complete
+2026-03-06 15:48:53,801  DEBUG  response_closed.started
+2026-03-06 15:48:53,801  DEBUG  response_closed.complete
+2026-03-06 15:48:57,393  INFO  started at 2026-03-06T15:48:46.306110
+2026-03-06 15:48:57,394  INFO  reporting to results/dan_full.report.jsonl
+2026-03-06 15:48:57,395  INFO  harness init: <garak.harnesses.probewise.ProbewiseHarness object at 0x7311e5c624d0>
+2026-03-06 15:48:57,395  INFO  probe queue: probes.dan.AntiDAN probes.dan.AutoDANCached probes.dan.ChatGPT_Developer_Mode_RANTI probes.dan.ChatGPT_Developer_Mode_v2 probes.dan.ChatGPT_Image_Markdown probes.dan.DAN_Jailbreak probes.dan.DUDE probes.dan.DanInTheWildMini probes.dan.Dan_10_0 probes.dan.Dan_11_0 probes.dan.Dan_6_0 probes.dan.Dan_6_2 probes.dan.Dan_7_0 probes.dan.Dan_8_0 probes.dan.Dan_9_0 probes.dan.STAN
+2026-03-06 15:48:57,396  INFO  probe init: <garak.probes.dan.AntiDAN object at 0x730e18ebba30>
+2026-03-06 15:48:57,396  DEBUG  deprecation warning - probe probes.dan.AntiDAN using recommend_detector instead of primary_detector
+2026-03-06 15:48:57,397  INFO  detector init: <garak.detectors.dan.AntiDAN object at 0x730e18eb9fc0>
+2026-03-06 15:48:57,397  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18d36860>
+2026-03-06 15:48:57,397  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18ebad10>
+2026-03-06 15:48:57,397  DEBUG  harness: probe start for garak.probes.dan.AntiDAN
+2026-03-06 15:48:57,397  DEBUG  probe execute: <garak.probes.dan.AntiDAN object at 0x730e18ebba30>
+2026-03-06 15:49:35,580  DEBUG  probe return: <garak.probes.dan.AntiDAN object at 0x730e18ebba30> with 1 attempts
+2026-03-06 15:49:35,580  DEBUG  harness: run detector garak.detectors.dan.AntiDAN
+2026-03-06 15:49:35,580  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:49:35,582  INFO  hit log in results/dan_full.hitlog.jsonl
+2026-03-06 15:49:35,583  DEBUG  harness: probe list iteration completed
+2026-03-06 15:49:35,583  INFO  probe init: <garak.probes.dan.AutoDANCached object at 0x730e18ec7970>
+2026-03-06 15:49:35,583  DEBUG  deprecation warning - probe probes.dan.AutoDANCached using recommend_detector instead of primary_detector
+2026-03-06 15:49:35,583  INFO  detector init: <garak.detectors.dan.DAN object at 0x730e18ec7ee0>
+2026-03-06 15:49:35,583  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18ec7610>
+2026-03-06 15:49:35,583  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18ec7940>
+2026-03-06 15:49:35,583  DEBUG  harness: probe start for garak.probes.dan.AutoDANCached
+2026-03-06 15:49:35,583  DEBUG  probe execute: <garak.probes.dan.AutoDANCached object at 0x730e18ec7970>
+2026-03-06 15:51:11,523  DEBUG  probe return: <garak.probes.dan.AutoDANCached object at 0x730e18ec7970> with 3 attempts
+2026-03-06 15:51:11,523  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 15:51:11,524  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:51:11,528  DEBUG  harness: probe list iteration completed
+2026-03-06 15:51:11,528  INFO  probe init: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x730e18ec78e0>
+2026-03-06 15:51:11,528  DEBUG  deprecation warning - probe probes.dan.ChatGPT_Developer_Mode_RANTI using recommend_detector instead of primary_detector
+2026-03-06 15:51:11,529  INFO  detector init: <garak.detectors.dan.DevMode object at 0x730e18ec6410>
+2026-03-06 15:51:11,529  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18ec7a00>
+2026-03-06 15:51:11,529  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18ec7ee0>
+2026-03-06 15:51:11,529  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Developer_Mode_RANTI
+2026-03-06 15:51:11,529  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x730e18ec78e0>
