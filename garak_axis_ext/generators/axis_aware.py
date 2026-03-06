@@ -55,7 +55,7 @@ class AxisAwareGenerator:
         self.store = AxisStore()
 
         log.info("Loading axis checkpoint from %s", axis_path)
-        checkpoint = torch.load(axis_path, map_location="cpu")
+        checkpoint = torch.load(axis_path, map_location="cpu", weights_only=True)
         self.axis_vector: torch.Tensor = checkpoint["axis"].float()  # [hidden_dim]
         self.axis_layer: int = checkpoint["layer"]
         self._checkpoint_meta = {k: v for k, v in checkpoint.items() if k != "axis"}
@@ -69,7 +69,7 @@ class AxisAwareGenerator:
         self.tokenizer = AutoTokenizer.from_pretrained(name)
         self.model = AutoModelForCausalLM.from_pretrained(
             name,
-            torch_dtype=torch.float16,
+            dtype=torch.float16,
             device_map=device,
         )
         self.model.eval()

@@ -115,7 +115,7 @@ def extract_axis(model_name, target_layer, corpus_path, output_path,
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
-        torch_dtype=torch.float16,
+        dtype=torch.float16,
         device_map=device,
     )
     model.eval()

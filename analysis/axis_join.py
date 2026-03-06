@@ -73,7 +73,7 @@ def detect_harm(attempt: dict, eval_threshold: float = 0.5) -> bool:
             if isinstance(scores, list)
         )
     # Fallback: any non-empty output
-    return any(bool(o) for o in attempt.get("outputs", []))
+    return False
 
 
 def classify_signature(harm: bool, displaced: bool) -> str:

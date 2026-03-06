@@ -63,7 +63,7 @@ def deduplicate_prompts(attempts: list) -> list:
 
 def capture(report_path: str, model_name: str, axis_path: str, output_path: str):
     # Import here so the script is importable without torch installed
-    from garak.generators.axis_aware import AxisAwareGenerator
+    from garak_axis_ext.generators.axis_aware import AxisAwareGenerator
 
     attempts = load_attempts(report_path)
     unique = deduplicate_prompts(attempts)

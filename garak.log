@@ -518,3 +518,152 @@ KeyboardInterrupt
 2026-03-06 15:51:11,529  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18ec7ee0>
 2026-03-06 15:51:11,529  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Developer_Mode_RANTI
 2026-03-06 15:51:11,529  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x730e18ec78e0>
+2026-03-06 15:51:55,089  DEBUG  probe return: <garak.probes.dan.ChatGPT_Developer_Mode_RANTI object at 0x730e18ec78e0> with 1 attempts
+2026-03-06 15:51:55,089  DEBUG  harness: run detector garak.detectors.dan.DevMode
+2026-03-06 15:51:55,089  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:51:55,091  DEBUG  harness: probe list iteration completed
+2026-03-06 15:51:55,091  INFO  probe init: <garak.probes.dan.ChatGPT_Developer_Mode_v2 object at 0x730e18d368c0>
+2026-03-06 15:51:55,091  DEBUG  deprecation warning - probe probes.dan.ChatGPT_Developer_Mode_v2 using recommend_detector instead of primary_detector
+2026-03-06 15:51:55,091  INFO  detector init: <garak.detectors.dan.DevMode object at 0x730e18d36ad0>
+2026-03-06 15:51:55,091  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18d370d0>
+2026-03-06 15:51:55,091  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18d36f20>
+2026-03-06 15:51:55,091  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Developer_Mode_v2
+2026-03-06 15:51:55,092  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Developer_Mode_v2 object at 0x730e18d368c0>
+2026-03-06 15:52:36,481  DEBUG  probe return: <garak.probes.dan.ChatGPT_Developer_Mode_v2 object at 0x730e18d368c0> with 1 attempts
+2026-03-06 15:52:36,481  DEBUG  harness: run detector garak.detectors.dan.DevMode
+2026-03-06 15:52:36,481  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:52:36,483  DEBUG  harness: probe list iteration completed
+2026-03-06 15:52:36,484  INFO  probe init: <garak.probes.dan.ChatGPT_Image_Markdown object at 0x730e18d36b60>
+2026-03-06 15:52:36,484  DEBUG  deprecation warning - probe probes.dan.ChatGPT_Image_Markdown using recommend_detector instead of primary_detector
+2026-03-06 15:52:36,484  INFO  detector init: <garak.detectors.dan.MarkdownLink object at 0x730e18d36fb0>
+2026-03-06 15:52:36,484  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18d36770>
+2026-03-06 15:52:36,484  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18d36ad0>
+2026-03-06 15:52:36,484  DEBUG  harness: probe start for garak.probes.dan.ChatGPT_Image_Markdown
+2026-03-06 15:52:36,484  DEBUG  probe execute: <garak.probes.dan.ChatGPT_Image_Markdown object at 0x730e18d36b60>
+2026-03-06 15:53:10,626  DEBUG  probe return: <garak.probes.dan.ChatGPT_Image_Markdown object at 0x730e18d36b60> with 1 attempts
+2026-03-06 15:53:10,626  DEBUG  harness: run detector garak.detectors.dan.MarkdownLink
+2026-03-06 15:53:10,627  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:53:10,629  DEBUG  harness: probe list iteration completed
+2026-03-06 15:53:10,629  INFO  probe init: <garak.probes.dan.DAN_Jailbreak object at 0x730e18d36b90>
+2026-03-06 15:53:10,629  DEBUG  deprecation warning - probe probes.dan.DAN_Jailbreak using recommend_detector instead of primary_detector
+2026-03-06 15:53:10,629  INFO  detector init: <garak.detectors.dan.DANJailbreak object at 0x730e18d37b80>
+2026-03-06 15:53:10,629  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18d37fa0>
+2026-03-06 15:53:10,629  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18d36fb0>
+2026-03-06 15:53:10,629  DEBUG  harness: probe start for garak.probes.dan.DAN_Jailbreak
+2026-03-06 15:53:10,629  DEBUG  probe execute: <garak.probes.dan.DAN_Jailbreak object at 0x730e18d36b90>
+2026-03-06 15:53:51,928  DEBUG  probe return: <garak.probes.dan.DAN_Jailbreak object at 0x730e18d36b90> with 1 attempts
+2026-03-06 15:53:51,928  DEBUG  harness: run detector garak.detectors.dan.DANJailbreak
+2026-03-06 15:53:51,929  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:53:51,931  DEBUG  harness: probe list iteration completed
+2026-03-06 15:53:51,931  INFO  probe init: <garak.probes.dan.DUDE object at 0x730e18d36800>
+2026-03-06 15:53:51,931  DEBUG  deprecation warning - probe probes.dan.DUDE using recommend_detector instead of primary_detector
+2026-03-06 15:53:51,932  INFO  detector init: <garak.detectors.dan.DUDE object at 0x730e18d368c0>
+2026-03-06 15:53:51,932  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18d370d0>
+2026-03-06 15:53:51,932  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18d37b80>
+2026-03-06 15:53:51,932  DEBUG  harness: probe start for garak.probes.dan.DUDE
+2026-03-06 15:53:51,932  DEBUG  probe execute: <garak.probes.dan.DUDE object at 0x730e18d36800>
+2026-03-06 15:54:26,881  DEBUG  probe return: <garak.probes.dan.DUDE object at 0x730e18d36800> with 1 attempts
+2026-03-06 15:54:26,881  DEBUG  harness: run detector garak.detectors.dan.DUDE
+2026-03-06 15:54:26,882  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 15:54:26,884  DEBUG  harness: probe list iteration completed
+2026-03-06 15:54:26,884  INFO  probe init: <garak.probes.dan.DanInTheWildMini object at 0x730e18d36f20>
+2026-03-06 15:54:26,887  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730e18d37fa0>
+2026-03-06 15:54:26,887  INFO  harness init: <garak.harnesses.base.Harness object at 0x730e18d370d0>
+2026-03-06 15:54:26,887  DEBUG  harness: probe start for garak.probes.dan.DanInTheWildMini
+2026-03-06 15:54:26,887  DEBUG  probe execute: <garak.probes.dan.DanInTheWildMini object at 0x730e18d36f20>
+2026-03-06 16:20:59,275  ERROR  HIP out of memory. Tried to allocate 2.78 GiB. GPU 0 has a total capacity of 11.98 GiB of which 698.00 MiB is free. Of the allocated memory 10.01 GiB is allocated by PyTorch, and 927.49 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_HIP_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2026-03-06 16:49:09,694  DEBUG  probe return: <garak.probes.dan.DanInTheWildMini object at 0x730e18d36f20> with 100 attempts
+2026-03-06 16:49:09,695  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:49:09,822  DEBUG  harness: probe list iteration completed
+2026-03-06 16:49:09,823  INFO  probe init: <garak.probes.dan.Dan_10_0 object at 0x730f663172b0>
+2026-03-06 16:49:09,823  DEBUG  deprecation warning - probe probes.dan.Dan_10_0 using recommend_detector instead of primary_detector
+2026-03-06 16:49:09,823  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f66317220>
+2026-03-06 16:49:09,823  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:49:09,823  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f663172e0>
+2026-03-06 16:49:09,823  DEBUG  harness: probe start for garak.probes.dan.Dan_10_0
+2026-03-06 16:49:09,823  DEBUG  probe execute: <garak.probes.dan.Dan_10_0 object at 0x730f663172b0>
+2026-03-06 16:49:46,429  DEBUG  probe return: <garak.probes.dan.Dan_10_0 object at 0x730f663172b0> with 1 attempts
+2026-03-06 16:49:46,429  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:49:46,429  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:49:46,432  DEBUG  harness: probe list iteration completed
+2026-03-06 16:49:46,432  INFO  probe init: <garak.probes.dan.Dan_11_0 object at 0x730e18d36fb0>
+2026-03-06 16:49:46,432  DEBUG  deprecation warning - probe probes.dan.Dan_11_0 using recommend_detector instead of primary_detector
+2026-03-06 16:49:46,432  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f663172b0>
+2026-03-06 16:49:46,432  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:49:46,432  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f66317220>
+2026-03-06 16:49:46,432  DEBUG  harness: probe start for garak.probes.dan.Dan_11_0
+2026-03-06 16:49:46,432  DEBUG  probe execute: <garak.probes.dan.Dan_11_0 object at 0x730e18d36fb0>
+2026-03-06 16:50:32,636  DEBUG  probe return: <garak.probes.dan.Dan_11_0 object at 0x730e18d36fb0> with 1 attempts
+2026-03-06 16:50:32,636  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:50:32,637  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:50:32,639  DEBUG  harness: probe list iteration completed
+2026-03-06 16:50:32,639  INFO  probe init: <garak.probes.dan.Dan_6_0 object at 0x730f66317280>
+2026-03-06 16:50:32,639  DEBUG  deprecation warning - probe probes.dan.Dan_6_0 using recommend_detector instead of primary_detector
+2026-03-06 16:50:32,639  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f663172e0>
+2026-03-06 16:50:32,640  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:50:32,640  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f663172b0>
+2026-03-06 16:50:32,640  DEBUG  harness: probe start for garak.probes.dan.Dan_6_0
+2026-03-06 16:50:32,640  DEBUG  probe execute: <garak.probes.dan.Dan_6_0 object at 0x730f66317280>
+2026-03-06 16:51:06,714  DEBUG  probe return: <garak.probes.dan.Dan_6_0 object at 0x730f66317280> with 1 attempts
+2026-03-06 16:51:06,714  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:51:06,715  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:51:06,717  DEBUG  harness: probe list iteration completed
+2026-03-06 16:51:06,717  INFO  probe init: <garak.probes.dan.Dan_6_2 object at 0x730f66317220>
+2026-03-06 16:51:06,717  DEBUG  deprecation warning - probe probes.dan.Dan_6_2 using recommend_detector instead of primary_detector
+2026-03-06 16:51:06,718  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f66317280>
+2026-03-06 16:51:06,718  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:51:06,718  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f663172e0>
+2026-03-06 16:51:06,718  DEBUG  harness: probe start for garak.probes.dan.Dan_6_2
+2026-03-06 16:51:06,718  DEBUG  probe execute: <garak.probes.dan.Dan_6_2 object at 0x730f66317220>
+2026-03-06 16:51:43,706  DEBUG  probe return: <garak.probes.dan.Dan_6_2 object at 0x730f66317220> with 1 attempts
+2026-03-06 16:51:43,706  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:51:43,707  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:51:43,709  DEBUG  harness: probe list iteration completed
+2026-03-06 16:51:43,709  INFO  probe init: <garak.probes.dan.Dan_7_0 object at 0x730f663172b0>
+2026-03-06 16:51:43,709  DEBUG  deprecation warning - probe probes.dan.Dan_7_0 using recommend_detector instead of primary_detector
+2026-03-06 16:51:43,709  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f66317220>
+2026-03-06 16:51:43,709  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:51:43,709  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f66317280>
+2026-03-06 16:51:43,709  DEBUG  harness: probe start for garak.probes.dan.Dan_7_0
+2026-03-06 16:51:43,709  DEBUG  probe execute: <garak.probes.dan.Dan_7_0 object at 0x730f663172b0>
+2026-03-06 16:52:15,745  DEBUG  probe return: <garak.probes.dan.Dan_7_0 object at 0x730f663172b0> with 1 attempts
+2026-03-06 16:52:15,745  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:52:15,746  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:52:15,748  DEBUG  harness: probe list iteration completed
+2026-03-06 16:52:15,748  INFO  probe init: <garak.probes.dan.Dan_8_0 object at 0x730f663172e0>
+2026-03-06 16:52:15,748  DEBUG  deprecation warning - probe probes.dan.Dan_8_0 using recommend_detector instead of primary_detector
+2026-03-06 16:52:15,748  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f663172b0>
+2026-03-06 16:52:15,748  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:52:15,748  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f66317220>
+2026-03-06 16:52:15,748  DEBUG  harness: probe start for garak.probes.dan.Dan_8_0
+2026-03-06 16:52:15,748  DEBUG  probe execute: <garak.probes.dan.Dan_8_0 object at 0x730f663172e0>
+2026-03-06 16:52:53,195  DEBUG  probe return: <garak.probes.dan.Dan_8_0 object at 0x730f663172e0> with 1 attempts
+2026-03-06 16:52:53,196  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:52:53,196  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:52:53,198  DEBUG  harness: probe list iteration completed
+2026-03-06 16:52:53,198  INFO  probe init: <garak.probes.dan.Dan_9_0 object at 0x730f66317280>
+2026-03-06 16:52:53,198  DEBUG  deprecation warning - probe probes.dan.Dan_9_0 using recommend_detector instead of primary_detector
+2026-03-06 16:52:53,198  INFO  detector init: <garak.detectors.dan.DAN object at 0x730f663172e0>
+2026-03-06 16:52:53,199  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:52:53,199  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f663172b0>
+2026-03-06 16:52:53,199  DEBUG  harness: probe start for garak.probes.dan.Dan_9_0
+2026-03-06 16:52:53,199  DEBUG  probe execute: <garak.probes.dan.Dan_9_0 object at 0x730f66317280>
+2026-03-06 16:53:29,137  DEBUG  probe return: <garak.probes.dan.Dan_9_0 object at 0x730f66317280> with 1 attempts
+2026-03-06 16:53:29,137  DEBUG  harness: run detector garak.detectors.dan.DAN
+2026-03-06 16:53:29,138  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:53:29,140  DEBUG  harness: probe list iteration completed
+2026-03-06 16:53:29,140  INFO  probe init: <garak.probes.dan.STAN object at 0x730f66317220>
+2026-03-06 16:53:29,140  DEBUG  deprecation warning - probe probes.dan.STAN using recommend_detector instead of primary_detector
+2026-03-06 16:53:29,140  INFO  detector init: <garak.detectors.dan.STAN object at 0x730f66317280>
+2026-03-06 16:53:29,141  INFO  detector init: <garak.detectors.mitigation.MitigationBypass object at 0x730f66317250>
+2026-03-06 16:53:29,141  INFO  harness init: <garak.harnesses.base.Harness object at 0x730f663172e0>
+2026-03-06 16:53:29,141  DEBUG  harness: probe start for garak.probes.dan.STAN
+2026-03-06 16:53:29,141  DEBUG  probe execute: <garak.probes.dan.STAN object at 0x730f66317220>
+2026-03-06 16:54:01,657  DEBUG  probe return: <garak.probes.dan.STAN object at 0x730f66317220> with 1 attempts
+2026-03-06 16:54:01,657  DEBUG  harness: run detector garak.detectors.dan.STAN
+2026-03-06 16:54:01,658  DEBUG  harness: run detector garak.detectors.mitigation.MitigationBypass
+2026-03-06 16:54:01,660  DEBUG  harness: probe list iteration completed
+2026-03-06 16:54:01,660  INFO  run complete, ending
+2026-03-06 16:54:01,722  INFO  garak run complete in 3915.35s
+2026-03-06 16:54:01,774  DEBUG  close.started
+2026-03-06 16:54:01,774  DEBUG  close.complete
