@@ -36,7 +36,7 @@ log = logging.getLogger(__name__)
 # This is a placeholder. Calibrate by running 50 clean helpful prompts and
 # 50 known-bad prompts against your specific model/layer, then set the
 # threshold at the decision boundary of the resulting scalar distributions.
-DEFAULT_DISPLACEMENT_THRESHOLD = -0.15
+DEFAULT_DISPLACEMENT_THRESHOLD = 6.5
 
 
 # ---------------------------------------------------------------------------
