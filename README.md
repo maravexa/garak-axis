@@ -19,31 +19,21 @@ This project instruments Garak runs to track that displacement in real time, cla
 Garak owns the scan. The axis layer runs in parallel and joins offline.
 This keeps compatibility with all garak versions and probe types.
 
-```
-                    ┌─────────────────────────────────────┐
-  [axis_extractor]  │  GARAK (CLI)                        │
-  derives axis ──►  │  garak --model_type huggingface      │──► report.jsonl
-  axis/vectors/*.pt │  --probes dan.Dan_11_0               │──► hitlog.jsonl
-                    └─────────────────────────────────────┘
-                                                │
-                                          report.jsonl
-                                                │
-                                                ▼
-                    ┌─────────────────────────────────────┐
-                    │  axis_capture.py                    │
-                    │  reads prompts from report.jsonl    │
-                    │  runs through AxisAwareGenerator    │──► axis_capture.jsonl
-                    │  writes prompt → displacement       │
-                    └─────────────────────────────────────┘
-                                                │
-                              report.jsonl + axis_capture.jsonl
-                                                │
-                                                ▼
-                    ┌─────────────────────────────────────┐
-                    │  axis_join.py                       │
-                    │  joins on prompt text               │
-                    │  classifies attack signatures       │──► axis_augmented.jsonl
-                    └─────────────────────────────────────┘
+```mermaid
+flowchart TD
+    AE["axis_extractor.py\n<i>PCA-based axis derivation</i>"]
+    AE -->|"axis/vectors/*.pt"| AC
+
+    GARAK["GARAK CLI\ngarak --model_type huggingface\n--probes dan.Dan_11_0"]
+    GARAK -->|"report.jsonl\nhitlog.jsonl"| AC
+
+    AC["axis_capture.py\n<i>Reads prompts from report, runs\nthrough AxisAwareGenerator</i>"]
+    AC -->|"axis_capture.jsonl"| AJ
+
+    GARAK -->|"report.jsonl"| AJ
+
+    AJ["axis_join.py\n<i>Joins on prompt text,\nclassifies attack signatures</i>"]
+    AJ -->|"axis_augmented.jsonl"| OUT["Augmented Results"]
 ```
 
 **Components:**
